@@ -2,13 +2,13 @@
 THIS MAY HELP
 
 ## function
-1.forward your tcp streams without listening any ports on relay
-2.binding remote port on localhost.
+1.forward your tcp streams without listening any ports on relay.  
+2.binding remote port on localhost.  
 
 ## usage
 
 relay
-1. download tun file from repo,put it at ${HOME} of relay
+1. download tun file from repo,put it at ${HOME} of relay  
 2. chmod +x tun  
 
 local
