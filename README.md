@@ -8,6 +8,9 @@ THIS MAY HELP
 ## how does it works
 Transfer your tcp I/O streams into terminal's std I/0 stream with HEX encoding.
 
+** why not transfer with z-modem protocol? **   
+My company's operation administrator forbids this protocol.
+
 ## usage
 
 relay
