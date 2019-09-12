@@ -1,6 +1,10 @@
 # when your relay administrator forbid ssh tunneling.  
 THIS MAY HELP
 
+## function
+1.forward your tcp streams without listening any ports on relay
+2.binding remote port on localhost.
+
 ## usage
 
 relay
