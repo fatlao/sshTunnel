@@ -5,6 +5,9 @@ THIS MAY HELP
 1.forward your tcp streams without listening any ports on relay.  
 2.binding remote port on localhost.  
 
+## how does it works
+Transfer your tcp I/O streams into terminal's std I/0 stream with HEX encoding.
+
 ## usage
 
 relay
