@@ -35,3 +35,8 @@ commandline=/path/to/tun
 30193=10.1.18.193 32200         #localPort=remoteAddress remotePort
 30198=10.1.0.198 32200
 ```
+
+## hint
+kg 只在跳板机上面禁止了tunnel.  
+通过这个跳到业务机再使用原生ssh隧道可以直连接数据库做爱做的事.    
+然后跑路
